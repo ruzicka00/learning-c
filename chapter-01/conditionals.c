@@ -7,7 +7,6 @@
  *Description: 
  *    Understanding and learning conditionals 
  */
-
 #include <stdio.h>
 
 /* main - demonstrates if, else if, and else conditionals 
