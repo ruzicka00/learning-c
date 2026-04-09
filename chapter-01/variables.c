@@ -13,9 +13,9 @@
 /* main - demonstrates variables, data types and basic arithmetic 
  *  Returns 0 on successful execution.
  */
-  int main(void)
+int main(void)
 {
-    /* Intenger variable - whole numbers */
+    /* Integer variable - whole numbers */
     int a = 10;
     int b = 3; 
 
@@ -30,7 +30,7 @@
     printf("a - b = %d\n", a - b);
     printf("a * b = %d\n", a * b);
     printf("a / b = %.2f\n",(float)a / b); /* float cast forces decimal division */
-    printf("a %% b = %d\n", a % b); /* mudulo - remainder */
+    printf("a %% b = %d\n", a % b); /* modulo - remainder */
 
     /* Float output */
     printf("f = %.2f\n", f); 

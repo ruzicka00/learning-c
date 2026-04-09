@@ -23,7 +23,7 @@ int main(void)
     printf("%d\n", a);      /* integer */
     printf("%f\n", f);      /* float, default 6 decimal places */
     printf("%.2f\n", f);    /* float, exactly 2 decimal places */
-    printf("%.4f\n", f);    /* float, exactly 4 decimal palces */
+    printf("%.4f\n", f);    /* float, exactly 4 decimal places */
 
     /* Field width */
     printf("%10d\n", a);    /* right aligned in 10 char wide field */

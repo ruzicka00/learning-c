@@ -14,8 +14,8 @@
 /* main - entry point of the program
  * Returns 0 on successful execution.
  */
- int main(void)
- {
+int main(void)
+{
     /* Print a greeting to standard output */
     printf("Hello, World!\n");
 
