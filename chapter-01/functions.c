@@ -1,6 +1,6 @@
 /*
 *File: functions.c
-*Author: Ruzicka00 
+*Author: ruzicka00 
 *Version: 1.0
 *Date: 09_04_2026
 *
@@ -11,7 +11,7 @@
 #include <stdio.h> 
 
 /* add - returns the sum of two integer
- * Parameters: a - first integer, b second integer
+ * Parameters: a - first integer, b - second integer
  */
 int add(int a, int b)
 {
@@ -19,7 +19,7 @@ int add(int a, int b)
 }
 
 /* is_even - checks if a number is even
- * Parametes: n - integer to check 
+ * Parameters: n - integer to check 
  * Returns: 1 if even, 0 if odd 
  */
 int is_even(int n)
