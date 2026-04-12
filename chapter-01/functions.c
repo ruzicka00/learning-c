@@ -1,12 +1,12 @@
 /*
-*File: functions.c
-*Author: ruzicka00 
-*Version: 1.0
-*Date: 09_04_2026
-*
-*Description:
-*    Introduction to functions, parameters and return values
-*/
+ *File: functions.c
+ *Author: ruzicka00 
+ *Version: 1.0
+ *Date: 09_04_2026
+ *
+ *Description:
+ *    Introduction to functions, parameters and return values
+ */
 
 #include <stdio.h> 
 

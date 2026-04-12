@@ -1,12 +1,12 @@
 /*
-*File: arrays.c
-*Author: ruzicka00 
-*Version: 1.0
-*Date: 09_04_2026
-*
-*Description:
-*    Understanding and learning arrays - declaration, initialization and iteration    
-*/
+ *File: arrays.c
+ *Author: ruzicka00 
+ *Version: 1.0
+ *Date: 09_04_2026
+ *
+ *Description:
+ *    Understanding and learning arrays - declaration, initialization and iteration    
+ */
 
 #include <stdio.h> 
 
